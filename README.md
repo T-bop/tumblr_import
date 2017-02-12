@@ -1,6 +1,7 @@
 # tumblr_import
-Python-baser Tumblr to wordpress importer
+Python-baser Tumblr to wordpress cron-compatible importer
 
-No idea if this can actually work, but it is fun to try. 
-This is my first project that isn't self-contained and that needs to interact with other software.
-Here goes nothing.
+EDIT:
+I just learned about RSS feed, and this tool would be pretty useless. I guess this is my Hello World, then.
+
+Hello World!
